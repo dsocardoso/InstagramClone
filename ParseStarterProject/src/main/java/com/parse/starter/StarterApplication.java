@@ -30,8 +30,8 @@ public class StarterApplication extends Application {
 
     // Codigo de configuração do App
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-            .applicationId("Hb2ejdjklkdjbqisks2eUysn89sBNmsjL")
-            .clientKey("zBkGRt0hKzwwhP5Rta7qYe1h6cGKDddDSR8rBspW")
+            .applicationId("")
+            .clientKey("")
             .server("http://instagram1990.herokuapp.com/parse/")
     .build()
     );
