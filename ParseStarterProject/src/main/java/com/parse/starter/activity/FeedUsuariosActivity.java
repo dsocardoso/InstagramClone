@@ -59,7 +59,7 @@ public class FeedUsuariosActivity extends AppCompatActivity {
     }
     private void getPostagens(){
         ParseQuery<ParseObject> parseQuery = new ParseQuery<ParseObject>("Imagem");
-        parseQuery.whereEqualTo("objectId", objectId);
+        parseQuery.whereEqualTo("username", objectId);
         parseQuery.orderByAscending("createdAt");
         parseQuery.findInBackground(new FindCallback<ParseObject>() {
             @Override
