@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_instagram.png",
+        "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/src/main/res/mipmap-xxhdpi/ic_instagram.png"
+    },
+    {
+        "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

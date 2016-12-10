@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_f49a737a7ea7e2115d0fb4415e31281f65486b40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b82450e33532206b869b6e33795d6edc53a30820">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d388400a28190566079acbac874484d13b7a39e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_8456364eceafa0ab65fe0b9ce8e4cc456d310e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_effc6b2e0c95460c017321e80770073e13a3b5cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_64f514a76735b9e90c09d80f1b38b8982bfc7871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_6f02858d29cf0990047e53a649c3452501b9d377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_144a29d62476ce6a3dbb565b8ace04c55b9bd37a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69557bfbd1485d5e3401c6ad9ac7b62554688d29">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1785f813328292dd0505d2cf9d061a042f3e33fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_c55f27620108acea9d7cb8e1a857fba05162b20a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_a9e09f4847f69ce9d5ccb691b3cac4a553512844/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Fri Dec 09 23:37:21 BRST 2016
+base.0=/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d388400a28190566079acbac874484d13b7a39e2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1785f813328292dd0505d2cf9d061a042f3e33fb/classes.dex
+base.1=/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1785f813328292dd0505d2cf9d061a042f3e33fb
+file.0=/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d388400a28190566079acbac874484d13b7a39e2/classes.dex
