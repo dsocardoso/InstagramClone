@@ -128,12 +128,12 @@
         "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
         "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",

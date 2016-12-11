@@ -16,12 +16,12 @@
         "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png",
         "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_pressed_holo_light.9.png",

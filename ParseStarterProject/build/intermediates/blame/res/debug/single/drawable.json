@@ -20,12 +20,12 @@
         "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
         "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/usuario.png",
         "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/src/main/res/drawable/usuario.png"
+    },
+    {
+        "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "/home/dsocardoso/AndroidStudioProjects/InstagramClone/ParseStarterProject/build/intermediates/res/merged/debug/drawable/fab_background.xml",
