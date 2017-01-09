@@ -70,6 +70,7 @@ public class LoginActivity extends AppCompatActivity {
                 }else{//erro ao logar
                     Toast.makeText(LoginActivity.this, "Erro ao fazer login, "
                             + e.getMessage() , Toast.LENGTH_LONG).show();
+                    progressDialog.dismiss();
                 }
 
             }
